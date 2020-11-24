@@ -3,7 +3,7 @@ Backend do projeto orignal app.
 
 Para iniciar o projeto no docker, basta executar o script build.sh
 
-sudo ./build.sh
+./build.sh
 
 Para acessar o swagger
 
